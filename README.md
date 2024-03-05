@@ -104,9 +104,15 @@ programa {
 ## Desafio: Pedra, papel e tesoura
 
 Faça um programa para jogar pedra, papel e tesoura com o usuário. 
-- O programa deve pedir para o usuário entrar um número de 1 à 3, sendo:
+- O programa deve pedir para o usuário entrar um número de 1 à 3, sendo (você deve imprimir na tela as opções possíveis):
   - 1: Pedra
   - 2: Papel
   - 3: Tesoura
+  - 4: Sair
 - O programa deve escolher um número aleatório entre 1 e 3. 
 - O programa deve informar ao usuário o resultado da disputa seguindo as regras clássicas do jogo (pedra amassa tesoura, tesoura corta papel, papel enrola pedra, empate)
+- O jogo deve prosseguir enquanto o usuário não escolher 4.
+
+## Desafio 2: Pedra, papel e tesoura
+Altere o programa de pedra papel e tesoura para jogar a melhor de 3 com o usuário.
+
